@@ -1,2 +1,5 @@
 # design-time-logic
-Long-form case study: rebuilding a Gemini cooking assistant in Claude + Notion, and why nothing that changes should live in the instructions. Companion to daynwj.github.io/ai.
+
+This article moved to https://daynwj.github.io/ai/design-time-logic/
+
+**Do not delete this repo.** Its `index.html` forwards links that were shared before the move (LinkedIn posts, DMs, bookmarks).
